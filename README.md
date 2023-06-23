@@ -1,4 +1,4 @@
-# boardproject-boot (게시판 프로젝트 Spring Boot 버전)
+# boardProject-boot (게시판 프로젝트 Spring Boot 버전)
 
 ### 1. Import -> Gradle -> Exsisting Gradle Project 선택 후 next
 ![import gradle project](https://github.com/Baek-dh/boardproject-boot/assets/53039146/2ebd6d11-ba15-4573-bf74-d60b182d1d49)
