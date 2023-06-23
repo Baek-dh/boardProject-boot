@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import edu.kh.project.member.model.dto.Member;
 import edu.kh.project.member.model.service.AjaxService;
-import oracle.jdbc.proxy.annotation.Post;
 
 @Controller // 요청/응답 제어 + bean 등록
 public class AjaxController {
